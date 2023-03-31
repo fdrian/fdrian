@@ -13,7 +13,8 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=fdrian&style=flat-square&color=blue" alt=""/>
+
+# Adriano Freitas
 
 ### 👨‍💻 About Me
 - 👋 Hello, I’m @fdrian
@@ -24,8 +25,11 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 🚀 Stats
-<div>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fdrian&theme=nord&background=2E3440)](https://git.io/streak-stats)
+<div id="stats" align="center">
   
+  <img src="https://komarev.com/ghpvc/?username=fdrian&style=flat-square&color=blue" alt=""/>
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fdrian&theme=nord&background=2E3440)](https://git.io/streak-stats)
+    
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdrian&layout=compact&theme=nord)](https://github.com/fdrian/github-readme-stats)
 </div>
