@@ -17,10 +17,10 @@ fdrian/fdrian - Adriano Freitas is a hacker and bug hunter - https://adrianofrei
 </div>
 
 ### 👨‍💻 About Me
-- 👋 Hello, I’m Drian.
+- 👋 Hello world, I’m Drian.
 - 👀 I’m interested in bug bounties.
 - 🌱 I’m currently learning hacking.
-- 💞️ I’m Community Manager at Pato Academy.
+- 💞️ I’m Community Manager in Pato Academy.
 - 📫 Found me [here](https://adrianofreitas.me/).
 
 
