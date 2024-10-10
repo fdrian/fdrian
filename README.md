@@ -16,12 +16,15 @@ fdrian/fdrian - Adriano Freitas is a hacker and bug hunter - https://adrianofrei
   </a>
 </div>
 
+
 ### 👨‍💻 About Me
-- 👋 Hello world, I’m Drian.
-- 👀 I’m interested in bug bounties.
-- 🌱 I’m currently learning hacking.
-- 💞️ I’m Community Manager in Pato Academy.
-- 📫 Found me [here](https://adrianofreitas.me/).
+
+👋 Hello, world! I'm Drian, a passionate cybersecurity enthusiast with a keen interest in bug bounties and ethical hacking. As the Community Manager at Pato Academy, I strive to foster a collaborative environment where learners can grow and share their knowledge.
+
+🌱 Currently, I'm diving deep into the world of hacking, honing my skills and exploring new challenges. I believe in the power of community and continuous learning, and I'm excited to connect with like-minded individuals.
+
+📫 You can find me online [here](https://adrianofreitas.me/). Let's connect and make the digital world a safer place together!
+
 
 
 ### 🚀 Stats
