@@ -32,5 +32,5 @@ fdrian/fdrian - Adriano Freitas is a hacker and bug hunter - https://adrianofrei
   
   <img src="https://komarev.com/ghpvc/?username=fdrian&style=flat-square&color=blue" alt=""/>
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=fdrian&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=fdrian&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
 </div>
