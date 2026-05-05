@@ -1,36 +1,21 @@
 <!---
-fdrian/fdrian - Adriano Freitas is a hacker and bug hunter - https://adrianofreitas.me
+fdrian/fdrian - Find me at https://fdrian.me
 --->
+I'm Drian — security researcher focused on web application security, bug bounty, and self-hosted infrastructure.
 
-# Adriano Freitas
+**What I do:**
+- Web AppSec research — credited with [CVE-2024-1466](https://nvd.nist.gov/vuln/detail/CVE-2024-1466) (Stored XSS, WordPress plugin, 100k+ installs)
+- Community Manager @ [Pato Academy](https://pato.academy) — Bug Bounty education
+- Creative Contributor @ [Critical Thinking - Bug Bounty Podcast](https://ctbb.show)
+- Running [fdrian.me](https://fdrian.me) — personal self-hosted ecosystem (guides, tools, infra)
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/fdrian/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://hackerone.com/fdrian?type=user">
-    <img src="https://img.shields.io/badge/HackerOne-black?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne Badge"/>
-  </a>
-  <a href="https://www.twitter.com/xfdrian/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-
-### 👨‍💻 About Me
-
-👋 Hello, world! I'm Drian, a passionate cybersecurity enthusiast with a keen interest in bug bounties and ethical hacking. As the Community Manager at Pato Academy, I strive to foster a collaborative environment where learners can grow and share their knowledge.
-
-🌱 Currently, I'm diving deep into the world of hacking, honing my skills and exploring new challenges. I believe in the power of community and continuous learning, and I'm excited to connect with like-minded individuals.
-
-📫 You can find me online [here](https://adrianofreitas.me/). Let's connect and make the digital world a safer place together!
-
+**Currently learning:** offensive web security, recon methodologies, and deep diving into browser exploitation.
 
 
 ### 🚀 Stats
+
 <div id="stats" align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=fdrian&style=flat-square&color=blue" alt=""/>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=fdrian&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fdrian&theme=transparent&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+
 </div>
